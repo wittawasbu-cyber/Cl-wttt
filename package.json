@@ -1,0 +1,27 @@
+{
+  "name": "25",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wittawasbu-cyber/Cl-wttt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/wittawasbu-cyber/Cl-wttt/issues"
+  },
+  "homepage": "https://github.com/wittawasbu-cyber/Cl-wttt#readme",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "jest": "^30.2.0"
+  }
+}
